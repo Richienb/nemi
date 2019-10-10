@@ -33,7 +33,7 @@
     "eslint": "^6.5.1",
     "eslint-config-google": "^0.14.0",
     "microbundle": "^0.11.0",
-    "typescript": "^3.6.3"
+    "typescript": "^3.6.4"
   },
   "resolutions": {
     "microbundle/rollup-plugin-typescript2/rollup-pluginutils/micromatch/braces": "^2.3.1",
