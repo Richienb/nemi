@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@types/archiver": "^3.0.0",
-    "@types/bluebird": "^3.5.28",
+    "@types/bluebird": "^3.5.29",
     "@types/fs-extra": "^8.0.1",
     "@types/is-buffer": "^2.0.0",
     "@types/is-glob": "^4.0.1",
