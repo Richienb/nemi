@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "archiver": "^3.1.1",
-    "bluebird": "^3.7.1",
+    "bluebird": "^3.7.2",
     "fs-extra": "^8.1.0",
     "is-buffer": "^2.0.4",
     "is-glob": "^4.0.1",
